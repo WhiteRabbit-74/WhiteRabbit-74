@@ -13,15 +13,19 @@ CUSTOMIZATION:
 
 <!-- ═══════════════════════ BANNER ═══════════════════════ -->
 
+<!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
+
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=WHITE%20RABBIT&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Curiosity%20Beyond%20the%20Ordinary&descAlignY=58&descSize=17&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=WHITE%20RABBIT&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Curiosity%20Beyond%20the%20Ordinary&descAlignY=58&descSize=17&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=WHITE%20RABBIT&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Curiosity%20Beyond%20the%20Ordinary&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="White Rabbit banner"/>
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="art/header-light.svg">
+  <img src="art/header-light.svg" width="100%" alt="WhiteRabbit-74 Banner">
 </picture>
 
-<br/>
+</div>
+
+<!-- ═══════════════════════ PROFILE INTRO ═══════════════════════ -->
 
 # Hey there, I'm WhiteRabbit-74 👋
 
