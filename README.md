@@ -249,20 +249,8 @@ After creating the workflow:
 
 <br/>
 
-<a href="https://github.com/WhiteRabbit-74?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteRabbit-74&repo=PROJECT_ONE&hide_border=true&bg_color=0D1117&title_color=C65D6B&icon_color=8F3D4A&text_color=E8A0A8" alt="Project One"/>
-</a>
-<a href="https://github.com/WhiteRabbit-74?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteRabbit-74&repo=PROJECT_TWO&hide_border=true&bg_color=0D1117&title_color=C65D6B&icon_color=8F3D4A&text_color=E8A0A8" alt="Project Two"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/WhiteRabbit-74?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteRabbit-74&repo=PROJECT_THREE&hide_border=true&bg_color=0D1117&title_color=C65D6B&icon_color=8F3D4A&text_color=E8A0A8" alt="Project Three"/>
-</a>
-<a href="https://github.com/WhiteRabbit-74?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteRabbit-74&repo=PROJECT_FOUR&hide_border=true&bg_color=0D1117&title_color=C65D6B&icon_color=8F3D4A&text_color=E8A0A8" alt="Project Four"/>
+<a href="https://github.com/WhiteRabbit-74/WhiteRabbit-74">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteRabbit-74&repo=WhiteRabbit-74&hide_border=true&bg_color=0D1117&title_color=C65D6B&icon_color=8F3D4A&text_color=E8A0A8" alt="WhiteRabbit-74"/>
 </a>
 
 <br/><br/>
